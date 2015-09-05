@@ -36,7 +36,7 @@ class InstallSchema implements InstallSchemaInterface
             ->addColumn('creation_time', Table::TYPE_DATETIME, null, ['nullable' => false], 'Creation Time')
             ->addColumn('update_time', Table::TYPE_DATETIME, null, ['nullable' => false], 'Update Time')
             ->addIndex($installer->getIdxName('blog_post', ['url_key']), ['url_key'])
-            ->setComment('Ash Smith Blog Posts');
+            ->setComment('Nir Goldman Blog Posts');
 
         $installer->getConnection()->createTable($table);
 
