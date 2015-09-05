@@ -1,12 +1,12 @@
 {
-  "name": "nirgoldman/magento2-blog",
+  "name": "refaelgold/magento2_blog",
   "description": "A simple blog module.",
   "type": "magento2-module",
   "version": "1.0.0",
   "repositories": [
     {
       "type": "svn",
-      "url": "http://myhost.com:81/svn/Dependency/"
+      "url": "https://github.com/refaelgold/magento2_blog.git"
     }
   ],
   "license": [
@@ -25,5 +25,4 @@
       ]
     ]
   },
-  "minimum-stability": "dev"
 }
