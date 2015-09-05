@@ -4,6 +4,12 @@
   "type": "magento2-module",
   "minimum-stability": "dev",
   "version": "1.0.0",
+  "repositories": [
+    {
+      "type": "svn",
+      "url": "http://myhost.com:81/svn/Dependency/"
+    }
+  ],
   "license": [
     "OSL-3.0",
     "AFL-3.0"
