@@ -2,7 +2,6 @@
   "name": "nirgoldman/magento2-blog",
   "description": "A simple blog module.",
   "type": "magento2-module",
-  "minimum-stability": "dev",
   "version": "1.0.0",
   "repositories": [
     {
@@ -25,5 +24,6 @@
         "Gold/Blog"
       ]
     ]
-  }
+  },
+  "minimum-stability": "dev"
 }
