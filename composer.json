@@ -24,5 +24,12 @@
         "Gold/Blog"
       ]
     ]
+  },
+  "authors": [
+  {
+    "name": "Nir Goldman",
+    "homepage": "http://www.nirgoldman.com/",
+    "role": "Developer"
   }
+]
 }
