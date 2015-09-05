@@ -3,12 +3,6 @@
   "description": "A simple blog module.",
   "type": "magento2-module",
   "version": "1.0.0",
-  "repositories": [
-    {
-      "type": "svn",
-      "url": "https://github.com/refaelgold/magento2_blog.git"
-    }
-  ],
   "license": [
     "OSL-3.0",
     "AFL-3.0"
